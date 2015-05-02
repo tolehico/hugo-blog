@@ -1,0 +1,4 @@
+baseurl = "http://tolehico.co/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+builddrafts = false
